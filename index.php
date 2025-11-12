@@ -1,5 +1,7 @@
 <html>
-  <head></head>
+  <head>
+    <title>Portfolio</title>
+  </head>
   <body></body>
   <footer></footer>
 </html>
