@@ -12,3 +12,7 @@
     transform: scale(1.03); /* Subtle scale up on hover */
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); /* Slightly darker shadow on hover */
 }
+
+.navbar-brand {
+    width: 100px;
+}
